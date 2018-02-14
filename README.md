@@ -1,4 +1,4 @@
-User Accounts Meteor
+Chat Meteor v1.0
 =============
 
 **Spanish** / English
@@ -20,7 +20,7 @@ Instalación:
 
 2. Entrar al directorio "chat-meteor"
   	```
-  	cd uchat-meteor
+  	cd chat-meteor
   	```
 
 3. Ingresar los siguientes comandos.
